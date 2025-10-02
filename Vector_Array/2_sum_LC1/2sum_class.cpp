@@ -3,7 +3,7 @@ using namespace std;
 
 /*
 using brute force
-directly copy and paste in github 
+directly copy and paste in leetcode 
 
 */
 
