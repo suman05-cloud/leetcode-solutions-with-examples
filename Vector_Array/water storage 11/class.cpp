@@ -1,5 +1,4 @@
-#include<vector>
-using namespace std;
+
 
 /*
 using 2 pointer .
